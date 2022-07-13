@@ -26,3 +26,4 @@ Index
 * Tutorial 3: Adding detector construction
 * Tutorial 4: Inplementing Physics list
 * Tutorial 5: Generating particles
+* Tutorial 6: Adding detector Volume
