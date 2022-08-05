@@ -27,3 +27,4 @@ Index
 * Tutorial 4: Inplementing Physics list
 * Tutorial 5: Generating particles
 * Tutorial 6: Adding detector Volume
+* Tutorial 7: Inserting sensitive detectors
