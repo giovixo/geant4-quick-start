@@ -28,3 +28,4 @@ Index
 * Tutorial 5: Generating particles
 * Tutorial 6: Adding detector Volume
 * Tutorial 7: Inserting sensitive detectors
+* Tutorial 8: Storing hits in ROOT file
