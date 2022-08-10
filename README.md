@@ -8,12 +8,12 @@ Official repo: https://github.com/MustafaSchmidt/geant4-tutorial
 How to compile and run (change my path with yours)
 1. Sourcing
 ```
-> cd /Users/giovanni/sw/geant4/geant4-v11.0.2-install/share/Geant4-11.0.2/geant4make
+> cd sw/geant4/geant4.10.07.p03-install/share/Geant4-10.7.3/geant4make
 > source geant4make.sh
 ```
 2. Compiling example
 ```
-> cd /Users/giovanni/Documents/Works/lab/geant4-tutorial/tutorial-02
+> cd Documents/Works/lab/geant4-tutorial/tutorial-02
 > mkdir build
 > cd build
 > cmake ..
@@ -29,3 +29,4 @@ Index
 * Tutorial 6: Adding detector Volume
 * Tutorial 7: Inserting sensitive detectors
 * Tutorial 8: Storing hits in ROOT file
+* Tutorial 9: Creating macro files for automation
