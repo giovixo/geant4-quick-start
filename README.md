@@ -31,3 +31,4 @@ Index
 * Tutorial 8: Storing hits in ROOT file
 * Tutorial 9: Creating macro files for automation
 * Tutorial 10: User-defined messengers
+* Tutorial 11: Multithreading mode
