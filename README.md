@@ -32,3 +32,4 @@ Index
 * Tutorial 9: Creating macro files for automation
 * Tutorial 10: User-defined messengers
 * Tutorial 11: Multithreading mode
+* Tutorial 12: Adding detector efficiency
