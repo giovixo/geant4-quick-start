@@ -1,6 +1,6 @@
 # GEANT4 quick start
 
-This repo contains the some example code taken from the great GEANT4 tutorial produced by from Mustafa Schmidt. 
+This repo contains the some example code taken from the great GEANT4 tutorial produced by Mustafa Schmidt. 
 
 Videos: https://www.youtube.com/playlist?list=PLLybgCU6QCGWgzNYOV0SKen9vqg4KXeVL
 Official repo: https://github.com/MustafaSchmidt/geant4-tutorial
@@ -34,3 +34,4 @@ Index
 * Tutorial 11: Multithreading mode
 * Tutorial 12: Adding detector efficiency
 * Tutorial 13: Creating user defined stepping and event action
+* Tutorial 14: Simulation Radioactive decay and energy deposition
